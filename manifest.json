@@ -1,0 +1,31 @@
+
+{
+  "short_name" : "CBT Online",
+  "description" : "cbt.auraiya.online",
+  "start_url" : "https://cbt.auraiya.online/",
+  "name" : "Online Mock for CBT based Exams",
+  "scope" : "https://cbt.auraiya.online/",
+  "display" : "standalone",
+  "orientation" : "portrait",
+    "theme_color": "#f97d09",
+  "lang" : "English",
+    "icons": [
+      {
+       "src": "https://drive.google.com/uc?export=view&id=1pNNbCgHmJ7JYkelhZgcgdnvDKOZ4lLrW",
+       "type": "image/png",
+       "sizes": "180x180"
+      },
+      {
+       "src": "https://drive.google.com/uc?export=view&id=105O4RepfCWM16pbmjRXPMfR2bVAG3Zr4",
+       "type": "image/png",
+       "sizes": "192x192"
+      },
+      {
+      "src": "https://drive.google.com/uc?export=view&id=11OP3TFLQOraYFR0LXXQ6cHfRxeTbfYFZ",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+  }
+
+
